@@ -3,6 +3,15 @@ Mock Chinese Data），专为生成中文测试数据
 
 自用,由 AI 生成
 
+```xml
+<dependency>
+    <groupId>cn.lacia.github</groupId>
+    <artifactId>mockcndata</artifactId>
+    <version>1.0.0</version>
+</dependency>
+```
+
+
 ### V1.0 基础功能：
 
 - [x] 支持身份证、姓名、地址、营业执照等基本数据类型
